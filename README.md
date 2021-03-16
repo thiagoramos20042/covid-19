@@ -1,2 +1,2 @@
 # covid-19
-dados da covid 19 por países 
+Primeiro projeto usando python, utilizando api para captar dados da covid 19. 
